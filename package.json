@@ -1,0 +1,14 @@
+{
+  "name": "apily-request",
+  "description": "JavaScript HTTP request library",
+  "version": "0.1.0",
+  "keywords": [
+    "http",
+    "ajax",
+    "request"
+  ],
+  "dependencies": {
+    "component-emitter": "git://github.com/npmcomponent/component-emitter.git"
+  },
+  "license": "MIT"
+}
